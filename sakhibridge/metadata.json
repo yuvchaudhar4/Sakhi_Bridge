@@ -1,0 +1,6 @@
+{
+  "name": "SAKHIBRIDGE",
+  "description": "From Safety to Independence. A women's safety, crisis-response, and post-incident support platform where you choose what happens next.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
